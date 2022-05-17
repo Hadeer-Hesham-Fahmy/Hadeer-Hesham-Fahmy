@@ -9,7 +9,7 @@
 
 - 📄 <a href= "full stack developer.docx"  > View My CV </a>
 
- 
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 <a
 </p>
 
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -26,6 +27,7 @@
 
 
 
+<hr>
 
 [![card](https://github-readme-stats.vercel.app/api?username=hadeer-hesham-fahmy&theme=github_dark)](https://github.com/iuricode/)
 
