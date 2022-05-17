@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **mySQL, PHP, HTML, CSS3, JavaScript, Java and Android**
 
-- <a href ="**heidyhesham3@gmail.com**"> <img src= "https://img.shields.io/badge/Gmail-D14836?" style="for-the-badge&logo=gmail&logoColor=white" /> </a>
+- <a href ="**heidyhesham3@gmail.com**"> <img src= "https://img.shields.io/badge/Gmail-D14836?" style="for-the-badge&logo=gmail&logoColor=white" /> **heidyhesham3@gmail.com** </a>
 
 - 📄 Know about my experiences [https://1drv.ms/w/s!AltMTeO8ZpeIgRsfwX3U0GsVOt5Y](https://1drv.ms/w/s!AltMTeO8ZpeIgRsfwX3U0GsVOt5Y)
 
