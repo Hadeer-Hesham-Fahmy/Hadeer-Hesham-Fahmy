@@ -1,11 +1,10 @@
-<img align="center" src="https://1drv.ms/u/s!AltMTeO8ZpeIgSz5n3RGHZENqmfE" style="width=256px; height=250px;" alt="hadeer-hesham-fahmy" />
+<img align="center" src="" width="30" height="30" alt="hadeer-hesham-fahmy" />
 
 <h1 align="center">Hi 👋🏻, I'm Hadeer</h1>
 <h3 align="center">A passionate fresher full-stack developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeer-hesham-fahmy&label=Profile%20views&color=0e75b6&style=flat" alt="hadeer-hesham-fahmy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hadeer-hesham-fahmy&label=Profile%20views&color=0e75b6&style=flat" alt="hadeer-hesham-fahmy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadeer-hesham-fahmy" alt="hadeer-hesham-fahmy" /></a> </p>
 
 - 🌱 I’m currently learning **React.JS, Angular.Js, Laravel and Android**
 
