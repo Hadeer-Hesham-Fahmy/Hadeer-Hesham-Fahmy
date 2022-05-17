@@ -1,3 +1,4 @@
+<img align="center" src="https://1drv.ms/u/s!AltMTeO8ZpeIgSz5n3RGHZENqmfE" style="width=256px; height=250px;" alt="hadeer-hesham-fahmy" />
 
 <h1 align="center">Hi 👋🏻, I'm Hadeer</h1>
 <h3 align="center">A passionate fresher full-stack developer from Egypt</h3>
@@ -10,7 +11,7 @@
 
 - 💬 Ask me about **mySQL, PHP, HTML, CSS3, JavaScript, Java and Android**
 
-- 📫 How to reach me **heidyhesham3@gmail.com**
+- <a href ="**heidyhesham3@gmail.com**"> <img src= "https://img.shields.io/badge/Gmail-D14836?" style="for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 - 📄 Know about my experiences [https://1drv.ms/w/s!AltMTeO8ZpeIgRsfwX3U0GsVOt5Y](https://1drv.ms/w/s!AltMTeO8ZpeIgRsfwX3U0GsVOt5Y)
 
