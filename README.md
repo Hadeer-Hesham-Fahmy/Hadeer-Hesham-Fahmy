@@ -3,13 +3,14 @@
 <p align="center"> <img src="Untitled.png" alt="hadeer-hesham-fahmy" /> </p>
 
 
-- 🌱 I’m currently learning **React.JS, Angular.Js, Laravel and Android**
+- 🌱 I’m currently learning React.JS, Angular.Js, Laravel and Android
 
-- 💬 Ask me about **mySQL, PHP, HTML, CSS3, JavaScript, Java and Android**
+- 💬 Ask me about mySQL, PHP, HTML, CSS3, JavaScript and Java 
 
 
 
-- 📄 <a href= "" > View My CV </a>
+
+- 📄 <a href= "full stack developer.docx" style= " ;" > View My CV </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
