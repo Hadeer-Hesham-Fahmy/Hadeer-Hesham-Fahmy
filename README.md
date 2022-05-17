@@ -9,7 +9,7 @@
 
 
 
-- 📄 Know about my experiences [https://1drv.ms/w/s!AltMTeO8ZpeIgRsfwX3U0GsVOt5Y](https://1drv.ms/w/s!AltMTeO8ZpeIgRsfwX3U0GsVOt5Y)
+- 📄 <a href= "" > View My CV </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
