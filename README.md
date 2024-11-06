@@ -1,10 +1,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hadeer-hesham-fahmy&label=Profile%20views&color=0e75b6&style=flat" alt="hadeer-hesham-fahmy" /> </p>
 
-- 🌱 I’m currently learning MERN, Laravel and Wordpress
+- 🌱 I’m currently learning MERN, Laravel.
 
 - 💬 Ask me about mySQL, PHP, HTML, CSS3, JavaScript
 
 - 📄 <a href= "full stack developer.docx"  > View My CV </a>
+
+<hr>
+
+
+<!-- Add the video below -->
+<h3>Watch My Portfolio</h3>
+<video width="320" height="240" controls>
+  <source src="[your-video-url.mp4](https://drive.google.com/file/d/1MH36kO-K_4OU7wTL2csSBGxfKG2EOb9H/view?usp=sharing)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <hr>
 
