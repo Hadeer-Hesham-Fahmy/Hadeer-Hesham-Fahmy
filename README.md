@@ -3,8 +3,8 @@
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img7.png" />
-  <img alt="Demo" src="./Images/readme-img4.png" />
+  <img alt="Demo" src="./images/readme-img7.png" />
+  <img alt="Demo" src="./images/readme-img4.png" />
 </div>
 
 <br/>
