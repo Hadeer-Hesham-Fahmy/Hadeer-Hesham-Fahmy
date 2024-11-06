@@ -11,7 +11,7 @@
 
 <!-- Add the video below -->
 <h3>Watch My Portfolio</h3>
-<iframe src="https://drive.google.com/file/d/1MH36kO-K_4OU7wTL2csSBGxfKG2EOb9H/preview" width="640" height="480" allow="autoplay"></iframe>
+![Video](portfolio.mp4)
 
 
 <hr>
