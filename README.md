@@ -36,13 +36,3 @@
 
 <hr>
 
-
-[![card](https://github-readme-stats.vercel.app/api?username=hadeer-hesham-fahmy&theme=github_dark)](https://github.com/iuricode/)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadeer-hesham-fahmy&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hadeer-hesham-fahmy&repo=github-readme-stats&theme=github_dark" />
-</a>
-
