@@ -20,7 +20,7 @@
 
 - 💬 **Tech Stack**: Node.js, PHP, MySQL, MongoDB, HTML, CSS3, JavaScript, and related technologies.
 
-- 📄 <a href= "https://drive.google.com/file/d/1rNqDXL4LpAmtk9Mt1HiVHUOkSAQFY70K/view?usp=sharing"  > View My CV </a>
+- 📄 <a href= "[https://drive.google.com/file/d/1rNqDXL4LpAmtk9Mt1HiVHUOkSAQFY70K/view?usp=sharing](https://www.canva.com/design/DAGTlB01JrQ/9sUZ2MbJpLS_bi1R9ZVa8w/edit)"  > View My CV </a>
 
 - <h3>🚀 View My <a href= "https://portfolio-frontend-mocha-omega.vercel.app/"  >Portfolio live on Vercel!</a></h3>
              <small>Please note: For the best experience, open it on a laptop or PC, as it’s currently not fully responsive for mobile.</small>
